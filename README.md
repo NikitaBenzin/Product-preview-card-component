@@ -1,0 +1,1 @@
+- preview: https://nikitabenzin.github.io/Product-preview-card-component/
